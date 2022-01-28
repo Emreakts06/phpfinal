@@ -7,7 +7,7 @@
 
 
 <div class="userform">
-<h1>Yemek Ekleme Formu</h1>
+<h1>Yemek Tarifi Ekleme</h1>
 <form action="kayit.php" method="POST">
 	
 <input type="text" name="ismi" id="ismi" placeholder="yemek ismi" class="yazi" />
